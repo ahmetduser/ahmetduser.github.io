@@ -4,7 +4,7 @@ body {
 	padding:0;
 	width:100%;
 	color:black;
-	font:normal 13px/1.8em Arial, Helvetica, sans-serif;
+	font:normal 17px/1.8em Arial, Helvetica, sans-serif;
 	background:url(images/bg.jpg);
 }
 html {
@@ -59,7 +59,7 @@ h3 {
 p {
 	margin:8px 0;
 	padding:0 0 8px 0;
-	font:normal 13px/1.8em Arial, Helvetica, sans-serif;
+	font:normal 15px/1.8em Arial, Helvetica, sans-serif;
 }
 p.spec {
 }
@@ -110,7 +110,7 @@ a.rm, a.com {
 	padding:27px 22px 27px 20px;
 	color:#7b7a7a;
 	text-decoration:none;
-	font-size:13px;
+	font-size:16px;
 	line-height:16px;
 	background:none;
 }
